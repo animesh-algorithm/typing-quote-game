@@ -1,7 +1,7 @@
 /*          Fetch Functionality          */
 const randomQuote = document.getElementById('random-quote')
 const changeQuoteBtn = document.getElementById('change-quote')
-const randomQuote_API_URL = 'http://api.quotable.io/random'
+const randomQuote_API_URL = 'https://api.quotable.io/random'
 
 // Event-listeners for Fetch Functionality
 changeQuoteBtn.addEventListener('click', changeQuote)
