@@ -1,0 +1,26 @@
+body {
+    background: radial-gradient(rgb(61, 22, 22), rgb(39, 4, 4));
+}
+
+#random-text {
+    font-size: 30px;
+}
+
+#typing {
+    color: rgb(175, 221, 107)
+}
+
+textarea {
+    background: radial-gradient(rgb(133, 67, 67), rgb(54, 20, 20));
+    border-radius: 8px;
+    border: 2px solid rgb(113, 139, 139);
+    outline: none;
+}
+
+.correct {
+    color: lawngreen;
+}
+
+.incorrect {
+    color: tomato;
+}
